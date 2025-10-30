@@ -1,85 +1,58 @@
-<!-- 🌟 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&height=60&lines=MERN+Stack+Developer;React+Enthusiast;UI%2FUX+Lover+💜;Turning+Ideas+Into+Interactive+Reality+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=30&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer+%F0%9F%92%9A;Full-Stack+Web+Artisan+%F0%9F%8E%A8;React+Enthusiast+%E2%9A%9B%EF%B8%8F;Karachi-Based+Tech+Innovator+%F0%9F%87%B5%F0%9F%87%B0" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi 👋, I'm <span style="color:#61DAFB;">Nabiha Khan</span></h1>
+# Hi there 👋, I'm Nabiha Khan 🇵🇰
 
-<h3 align="center">💻 A Passionate MERN Stack Developer 🚀 | Crafting Modern Web Apps with Style & Logic ✨ | From Pakistan 🇵🇰</h3>
+### 🚀 A Passionate MERN Stack Developer | Crafting **Scalable & Modern Web Applications** with a Focus on **Flawless UI/UX** ✨ | Based in **Karachi, Pakistan**
 
 ---
 
-## 🧠 About Me  
-
-- 🔭 Currently building **Full-Stack Web Apps** using the **MERN Stack**  
-- 👯 Open to collaborate on **Open Source Projects**  
-- 🌱 Exploring **Next.js & TypeScript**  
-- 💬 Ask me about **React, Node.js, MongoDB, Firebase & REST APIs**  
-- 📧 Reach me at: **[khannabiha923@gmail.com](mailto:khannabiha923@gmail.com)**  
-- 👩‍💻 All my projects are available on [**GitHub**](https://github.com/nabihakhan6t4)  
-- ⚡ Fun fact: I’m obsessed with **perfect UI/UX** and **villain characters intrigue me** 😈  
-
----
-
-## 🛠️ Tech Stack  
-
-### 🚀 Frontend  
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
-
-### ⚙️ Backend  
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### ☁️ Backend as a Service  
-<p align="center">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
-### 💻 Tools & Platforms  
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-</p>
+## 🧠 About Me: The Code Weaver 💡
+- 🎯 **Mission:** I turn challenging concepts into smooth, high-performing **Full-Stack Web Apps** 🏗️ using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js).
+- 🏆 **Achievement:** I recently graduated from the **Saylani Mass IT Training Program**'s **Web and Mobile App Development (Batch-11)**! This 1-year journey built a solid foundation. ✅
+- 🤝 **Collaboration:** Actively looking for opportunities to contribute to **Open Source Projects** 🌐 and connect with fellow developers.
+- 💬 **Ask me about:** Deep dives into **React Performance**, building secure and scalable **REST APIs**, or efficient **MongoDB Schema Design**.
+- 📧 **Direct Contact:** **khannabiha923@gmail.com** 📬
+- 👨‍💻 **My Portfolio:** See all my code creations on **[GitHub](https://github.com/nabihakhan6t4)** 📁
+- 🔗 **LinkedIn:** Connect with me professionally **[here](https://www.linkedin.com/in/nabiha-khan-5864742b2/)**!
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## 🛠️ My Tech Stack: The Development Arsenal 🌟
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabihakhan6t4&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nabihakhan6t4&theme=react&hide_border=true&background=0D1117&fire=61DAFB&ring=61DAFB" height="165" />
+<p align="left">
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode,firebase,netlify" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabihakhan6t4&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61DAFB" height="150" />
-</p>
+| Category | Key Technologies |
+| :--- | :--- |
+| **Frontend** (UI/UX) | React.js, JavaScript (ES6), HTML5, CSS3, Tailwind CSS, Bootstrap |
+| **Backend** (Logic & Data) | Node.js, Express.js, MongoDB, REST APIs |
+| **Tools & Workflow** | Git, GitHub, Firebase, Netlify, Heroku, VSCode |
 
 ---
 
-## 🌍 Connect With Me  
+## 📊 My GitHub Performance **(Activity & Stats)** 📈
 
 <p align="center">
-  <a href="https://github.com/nabihakhan6t4"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nabiha-khan-5864742b2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/thenabihakhan/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/khannabiha923/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=nabihakhan6t4&show_icons=true&theme=dracula&hide_border=true&line_height=27&icon_color=FF79C6&text_color=F8F8F2&title_color=BD93F9" alt="Nabiha's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabihakhan6t4&layout=compact&theme=dracula&hide_border=true&line_height=27&icon_color=FF79C6&text_color=F8F8F2&title_color=BD93F9" alt="Top Languages" />
 </p>
+
+## 🌍 Connect With Me **(Let's Talk Tech!)** 🔗
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabihakhan6t4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabiha-khan-5864742b2/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thenabihakhan/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khannabiha923/)
 
 ---
 
-<h3 align="center">✨ “Build. Break. Fix. Learn.” 💪</h3>
-<p align="center">🔥 Keep Coding, Keep Creating & Keep Conquering! 😈🚀</p>
+### 💬 **A Development Philosophy:**
+> ✨ **"Build. Break. Fix. Learn."** Every failure is not an end, but a strong foundation for the next successful feature. 💪
+
+<p align="center">
+  🔥 Keep Coding, Keep Creating & Keep Conquering! **Let's turn ideas into digital reality!** 🚀
+</p>
