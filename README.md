@@ -61,9 +61,6 @@
 ## 🔭 Featured Projects  
 - **Ant-design-UI** — UI components & examples.  
   View: https://nabihakhan6t4.github.io/Ant-design-UI/  
-- **(Add your MERN projects here)** — Short 1-line description + link.
-
-> Tip: add 3–4 projects with links and a one-line description each — recruiters love that! 😍
 
 ---
 
