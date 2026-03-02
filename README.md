@@ -13,9 +13,7 @@
 - 🏆 **Achievement:** I recently graduated from the **Saylani Mass IT Training Program**'s **Web and Mobile App Development (Batch-11)**! This 1-year journey built a solid foundation. ✅
 - 🤝 **Collaboration:** Actively looking for opportunities to contribute to **Open Source Projects** 🌐 and connect with fellow developers.
 - 💬 **Ask me about:** Deep dives into **React Performance**, building secure and scalable **REST APIs**, or efficient **MongoDB Schema Design**.
-- 📧 **Direct Contact:** **khannabiha923@gmail.com** 📬
 - 👨‍💻 **My Portfolio:** See all my code creations on **[GitHub](https://github.com/nabihakhan6t4)** 📁
-- 🔗 **LinkedIn:** Connect with me professionally **[here](https://www.linkedin.com/in/nabiha-khan-5864742b2/)**!
 
 ---
 
@@ -41,18 +39,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabihakhan6t4&layout=compact&theme=dracula&hide_border=true&line_height=27&icon_color=FF79C6&text_color=F8F8F2&title_color=BD93F9" alt="Top Languages" />
 </p>
 
-## 🌍 Connect With Me **(Let's Talk Tech!)** 🔗
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nabihakhan6t4)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabiha-khan-5864742b2/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/thenabihakhan/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/khannabiha923/)
-
----
-
-### 💬 **A Development Philosophy:**
-> ✨ **"Build. Break. Fix. Learn."** Every failure is not an end, but a strong foundation for the next successful feature. 💪
-
-<p align="center">
-  🔥 Keep Coding, Keep Creating & Keep Conquering! **Let's turn ideas into digital reality!** 🚀
-</p>
